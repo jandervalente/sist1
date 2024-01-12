@@ -5,7 +5,7 @@
 > Pré condições:
 >> atualizar spring
 ```
-cd \etc
+node app.js
 ```
 # Artigo sobre README.md
 ```
