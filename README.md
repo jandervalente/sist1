@@ -1,4 +1,4 @@
-# Sistema para treinamento do curso 
+# Sistema para aprendizado do uso de git / github
 <h1> Curso git github</h1>
 
 > Status do projeto
