@@ -19,4 +19,6 @@ https://www.alura.com.br/artigos/como-trabalhar-com-markdown?_gl=1*inv5gj*_ga*Mz
 ```
 https://devhints.io/git-log
 ```
-
+> Aqui tem uma [página com os códigos mais frequentes](https://en.support.wordprss.com/markdown-quick-reference/) do Markdown
+>
+> Aqui tem um [link] (https://marketplace.visualstudio.com/items?itemName=hbrok.markdown-preview-bitbucket) para uma extensão Markdown preview
