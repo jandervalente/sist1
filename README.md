@@ -31,3 +31,8 @@ https://www.alura.com.br/artigos/como-trabalhar-com-markdown?_gl=1*inv5gj*_ga*Mz
 > 
 > Aqui tem um [link](https://comandosgit.github.io/) com a lista de comandos do git em português https://comandosgit.github.io/
 >
+# git hub repositorios
+
+> Aqui tem um [link](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories) com informações sobre o que é um repositório no github
+>
+> 
